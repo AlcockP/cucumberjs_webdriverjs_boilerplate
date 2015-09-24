@@ -1,0 +1,14 @@
+{
+  "name": "cucumberjs_webdriverjs_boilerplate",
+  "version": "0.1.0",
+  "author": "Paul Alcock <cox_1983@hotmail.com>",
+  "description": "Basics of CucumberJs and WebdriverJs",
+  "dependencies": {
+    "selenium-webdriver": "*",
+    "grunt-selenium-webdriver": "*",
+    "webdriverjs": "*",
+    "cucumber": "*",
+    "grunt-cucumber": "*",
+    "chai": "*"
+  }
+}
